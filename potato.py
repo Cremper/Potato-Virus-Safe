@@ -2,6 +2,10 @@ from PIL import Image
 import tkinter
 from tkinter import messagebox
 from pygame import mixer
+import time
+
+print("POTATO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
+time.sleep(5)
 
 mixer.init()
 mixer.music.load("potato.mp3")
